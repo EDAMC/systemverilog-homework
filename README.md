@@ -107,7 +107,7 @@ The Icarus Verilog version for Windows can be downloaded [from this site](https:
 [Video Instructions for the installation of icarus verilog on Windows](https://youtu.be/5kync4z5vow)
 
 
-[![](https://img.youtube.com/vi/5Kync4z5VOw/hqdefault.jpg)](https://www.youtube.com/watch?v=5Kync4z5VOw)
+[![](https://img.youtube.com/vi/5Kync4z5VOw/hqdefault.jpg)](https://youtu.be/5Kync4z5VOw?si=W8fCYLPqCvFOeD-u)
 
 ### Installation on Apple Mac
 
